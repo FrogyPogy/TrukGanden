@@ -1,2 +1,2 @@
 # TrukGandeng
-Truk Gandeng REMAKE
+TUGAS BESAR TRUK GANDENG A2
